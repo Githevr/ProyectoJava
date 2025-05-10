@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>ColeccionesDemo</name>
+=======
+            <name>Calculadora</name>
+>>>>>>> f6e30a570a590e6234bc5ce5d6d6907fd4cf82e2
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
